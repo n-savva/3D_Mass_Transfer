@@ -20,4 +20,8 @@ The provided python scripts reproduce the figures in the above mentioned paper, 
 In addition, the following are provided:
 
 * the code and PDE data for generating Figure 9 in the JFM paper above, as a means to compare the how well the different approaches compare
-* A jupyter notebook which explains the functionality of the solver (pending).
+
+## Acknowledgement
+
+This work has received funding through the Engineering and Physical Sciences Research Council of the United Kingdom through Grant No. EP/P505453/1 and from the European 
+Union’s Horizon 2020 research and innovation program under Grant No. 810660.
